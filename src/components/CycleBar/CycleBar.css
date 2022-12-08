@@ -1,0 +1,40 @@
+.cycle-bar-paper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: 10px;
+
+    border: 1px solid #999999;
+    border-radius: 5px;
+
+    margin: 10px 0px 10px 0px;
+}
+
+.slider-box {
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.cycle-bar-player-box {
+    width: 12%;
+    border: 1px solid #CCCCCC;
+    border-radius: 5px;
+}
+
+.current-cycle-box {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 15%;
+    border: 1px solid #CCCCCC;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.current-cycle-span {
+    color: #1976D2;
+    font-weight: bold;
+}

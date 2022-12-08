@@ -1,0 +1,9 @@
+.rv-diagram-paper {
+    max-width: 100%;
+    border: 1px solid #999999;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    /* background-color: #F5F5F5; */
+}

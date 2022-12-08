@@ -1,0 +1,18 @@
+.typography-title {
+    text-align: right;
+    color: #666666;
+    padding: 0px 0px 10px 0px;
+}
+
+#feedbackConsole {
+    text-align: left;
+    border: 1px solid #999999;
+    border-radius: 5px;
+    background-color: #F1F1F2;
+    height: 10vh;
+    padding: 10px;
+}
+
+.asm-infos-box {
+    height: 20%;
+}

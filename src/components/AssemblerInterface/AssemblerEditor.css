@@ -1,0 +1,25 @@
+.codemirror-paper {
+    position: relative;
+}
+
+#codemirror-editor {
+    text-align: left;
+    border-radius: 5px;
+    border: 1px solid #999999;
+    padding: 10px;
+}
+
+.asm-editor-box {
+    height: 80%;
+}
+
+.assemble-run-button {
+    padding: 10px;
+}
+
+.asm-editor-topbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px 0px 10px 0px;
+}

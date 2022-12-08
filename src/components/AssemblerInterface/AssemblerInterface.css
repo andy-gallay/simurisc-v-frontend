@@ -1,0 +1,14 @@
+.typography-title {
+    text-align: right;
+    color: #666666;
+}
+
+.asm-interface-box {
+    padding: 0px 10px 0px 10px;
+    /* border: 1px solid #999999;
+    border-radius: 5px; */
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
